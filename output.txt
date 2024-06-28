@@ -1,0 +1,17 @@
+Neutron:
+factory/neutron1lzecpea0qxw5xae92xkm3vaddeszr278k7w20c/dAsset, factory/neutron1lzecpea0qxw5xae92xkm3vaddeszr278k7w20c/dAsset, 113, [neutron]
+ibc/DB12DE291358ACBF9FA7B9E710DF989AE17FD6638538BD4D70324A7C42A056CB, factory/neutron1lzecpea0qxw5xae92xkm3vaddeszr278k7w20c/dAsset, 1, [neutron, osmosis, terra, neutron]
+ibc/C4A3E0BDA2A18D39FCB66C1D2945F6BF5A9714F0E5221D5E98976196B99F26E8, factory/neutron1lzecpea0qxw5xae92xkm3vaddeszr278k7w20c/dAsset, 1, [neutron, stride, osmosis, stargaze, neutron]
+factory/neutron1lzecpea0qxw5xae92xkm3vaddeszr278k7w20c/lAsset, factory/neutron1lzecpea0qxw5xae92xkm3vaddeszr278k7w20c/lAsset, 21, [neutron]
+Osmosis:
+ibc/544EC5AC9035F4E23397B9B877F0F17123F1F95B90A554BEBD5C0C16962835A7, factory/neutron1lzecpea0qxw5xae92xkm3vaddeszr278k7w20c/dAsset, 10, [neutron, osmosis]
+ibc/BE9E1A87A5A567F6C9E9A3655C0B204F82DF11CAC0D670461BC456BA97359E8D, factory/neutron1lzecpea0qxw5xae92xkm3vaddeszr278k7w20c/dAsset, 1, [neutron, stride, osmosis]
+Cosmoshub:
+ibc/3D459B55C08CE48681DB4E99101EE4BCF325A1FD02C21A85AB3BF62C9D8685BF, factory/neutron1lzecpea0qxw5xae92xkm3vaddeszr278k7w20c/dAsset, 4, [neutron, stride, cosmoshub]
+Stride:
+ibc/E9ED93B74C8A353A6433E9663B0781E96653B4C4718184682071CCBA08A2790D, factory/neutron1lzecpea0qxw5xae92xkm3vaddeszr278k7w20c/dAsset, 5, [neutron, stride]
+ibc/7BC3C5F0FF1AB51D0F7F818F95CB118809C8D8D5B625E81EF0CCAC931AC359BD, factory/neutron1lzecpea0qxw5xae92xkm3vaddeszr278k7w20c/lAsset, 2, [neutron, stride]
+
+TOTAL AMOUNTS:
+factory/neutron1lzecpea0qxw5xae92xkm3vaddeszr278k7w20c/dAsset, 135
+factory/neutron1lzecpea0qxw5xae92xkm3vaddeszr278k7w20c/lAsset, 23
